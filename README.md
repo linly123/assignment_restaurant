@@ -25,4 +25,4 @@ Installing - 安裝流程
 5.啟動伺服器，執行 app.js 檔案<br><pre>nodemon app.js</pre>
 
 6.成功及完成啟動<br><pre>當 terminal 出現以下字樣，表示伺服器與資料庫已啟動並成功連結
-The Express server is running on http://localhost:3000</pre>
+This is running on http://localhost:3000</pre>
