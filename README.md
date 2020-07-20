@@ -10,7 +10,7 @@ Features - 網站功能
 
 Environment SetUp - 環境建置
 ----
-1.Node.js v10.21.02.Express v4.17.13.Express-Handlebars v5.1.0
+1.Node.js v10.21.0<br>2.Express v4.17.13.<br>Express-Handlebars v5.1.0
 
 Installing - 安裝流程
 ----
