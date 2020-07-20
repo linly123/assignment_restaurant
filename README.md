@@ -10,25 +10,19 @@ Features - 網站功能
 
 Environment SetUp - 環境建置
 ----
-1.Node.js v10.21.0<br>2.Express v4.17.13.<br>Express-Handlebars v5.1.0
+1.Node.js v10.21.0<br>2.Express v4.17.1<br>3.Express-Handlebars v5.1.0
 
 Installing - 安裝流程
 ----
-1.開啟terminal，Clone 此專案到本機電腦<br>
-git clone 	https://github.com/linly123/assignment_restaurant.git
+1.開啟terminal，Clone 此專案到本機電腦<br><pre>git clone https://github.com/linly123/assignment_restaurant.git</pre>
   
-2.進入並存放此專案的資料夾<br>
-cd restaurantList
+2.進入並存放此專案的資料夾<br><pre>cd restaurantList</pre>
   
-3.安裝 npm 套件<br>
-於Terminal 輸入 npm install 指令
+3.安裝 npm 套件<br><pre>於Terminal 輸入 npm install 指令</pre>
 
-4.安裝 nodemon 套件<br>
-於Terminal 輸入 nodemon app.js 指令
+4.安裝 nodemon 套件<br><pre>於Terminal 輸入 nodemon app.js 指令</pre>
 
-5.啟動伺服器，執行 app.js 檔案<br>
-nodemon app.js
+5.啟動伺服器，執行 app.js 檔案<br><pre>nodemon app.js</pre>
 
-6.成功及完成啟動<br>
-當 terminal 出現以下字樣，表示伺服器與資料庫已啟動並成功連結
-The Express server is running on http://localhost:3000
+6.成功及完成啟動<br><pre>當 terminal 出現以下字樣，表示伺服器與資料庫已啟動並成功連結
+The Express server is running on http://localhost:3000</pre>
