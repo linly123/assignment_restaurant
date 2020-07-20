@@ -16,7 +16,7 @@ Installing - 安裝流程
 ----
 1.開啟terminal，Clone 此專案到本機電腦<br><pre>git clone https://github.com/linly123/assignment_restaurant.git</pre>
   
-2.進入並存放此專案的資料夾<br><pre>cd restaurantList</pre>
+2.進入並存放此專案的資料夾<br><pre>cd restaurant_restaurantList</pre>
   
 3.安裝 npm 套件<br><pre>於Terminal 輸入 npm install 指令</pre>
 
